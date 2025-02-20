@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "I-95",
+        "location": "Old Saybrook",
+        "description": "I-95/State Route 9 Intersection off I-95 exit 69 NB/SB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.384, 41.299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "I-95",
+        "location": "Norwalk",
+        "description": "I-95/U.S. Route 7 Intersection off I-95 exit 15 NB/SB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.418, 41.104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "I-91",
+        "location": "Hartford",
+        "description": "I-91 exit 33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.670, 41.771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "I-91",
+        "location": "Meriden",
+        "description": "I-91 exit 16 NB, exit 17 SB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.779, 41.538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "I-84",
+        "location": "Willington",
+        "description": "I-84 exit 71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.263, 41.885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "I-84",
+        "location": "Waterbury",
+        "description": "I-84 WB exit 22/EB exit 23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.051, 41.553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "I-84",
+        "location": "Danbury",
+        "description": "I-84 exit 5 (also U.S. Route 7)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.474, 41.395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "I-395",
+        "location": "Putnam",
+        "description": "I-395/U.S. Route 44 intersection at exit 47 off I-395 NB/SB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.909, 41.915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "I-395",
+        "location": "Plainfield",
+        "description": "I-395 exit 32 location and the Plainfield I-395 NB/SB Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.925, 41.679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "Route 7",
+        "location": "North Canaan",
+        "description": "U.S. Route 7/U.S. Route 44 Intersection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.326, 42.026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "corridor": "Route 7",
+        "location": "New Milford",
+        "description": "U.S. Route 7/U.S. Route 202 Intersection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.409, 41.588]
+      }
+    }
+  ]
+}
